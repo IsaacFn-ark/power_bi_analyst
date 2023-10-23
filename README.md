@@ -18,5 +18,6 @@ Repositório relacionado a formação de Power BI Analyst Abaixo o desafio do mo
 4. Verificação de problemas na base a fim de realizar a transformação dos dados
 
 Diretrizes para transformação dos dados
+
 ![image](https://github.com/IsaacFn-ark/power_bi_analyst/assets/57020769/56f7808a-9899-4b43-85b8-73040c980191)
 
